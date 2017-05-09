@@ -1,0 +1,6 @@
+[package]
+name = "kslover"
+version = "0.1.0"
+authors = ["谢小明 <xiexiaoming@ygsoft.com>"]
+
+[dependencies]
